@@ -11,7 +11,7 @@ Plan Your Trip With Travel Dot
 </h1>
 <p className='subTitle'>
 
-Travel to your favourite city with respectful
+Travel tooooooooooooooooooooooooooooo your favourite city with respectful
 of the environment !
 </p>
 <button className='btn'>
