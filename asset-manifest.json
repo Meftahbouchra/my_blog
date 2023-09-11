@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my_blog/static/css/main.e82e718b.css",
+    "main.js": "/my_blog/static/js/main.fd553b40.js",
+    "static/media/home-bg.jpg": "/my_blog/static/media/home-bg.14eacc1c4c641a9e0e83.jpg",
+    "static/media/portfolio-img4.jpg": "/my_blog/static/media/portfolio-img4.30d4aecba43471b829c4.jpg",
+    "static/media/lumineux-du-soleil.jpg": "/my_blog/static/media/lumineux-du-soleil.5042d28920d888d350c2.jpg",
+    "index.html": "/my_blog/index.html",
+    "main.e82e718b.css.map": "/my_blog/static/css/main.e82e718b.css.map",
+    "main.fd553b40.js.map": "/my_blog/static/js/main.fd553b40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82e718b.css",
+    "static/js/main.fd553b40.js"
+  ]
+}
