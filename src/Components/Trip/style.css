@@ -37,8 +37,8 @@
  }
 
  
- .t-image:hover img {
-  transform: scale(1.3);
+ .t-card:hover  {
+  transform: scale(1.1);
     
  }
 

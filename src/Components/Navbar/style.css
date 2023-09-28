@@ -71,34 +71,11 @@
              .navLink:hover{
                 color: var(--PrimaryColor);
             }
-            .headerBtns{
-                flex-direction: column;
-            }
+           
 
-            .headerBtns.btn{
-                margin-top: 1rem;}
-                headerBtns.btn.a{
-                    font-weight: 600;
-                }   
-                headerBtns.btn.a:hover{
-                    color: var(--WhiteColor);
-                }  
-               
-                .loginBtn{
-                    background: none;
-                    border: 1px solid var(--PrimaryColor);}
-                    
-                   
-                    .loginBtn.a{
-                        color: var(--PrimaryColor);
-    
-                    }
-                    .loginBtn:hover{
-                        background: var(--HoverColor);}
-                        .loginBtn.a:hover {
-                            color: var(--WhiteColor);
-    
-                        }
+            
+                
+                  
 
                         .closeNavbar{
                             position: absolute;

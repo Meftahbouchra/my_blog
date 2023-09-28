@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 
-const Index = () => {
+const Index = () => {                                           
   return (
     <section className='home'>
 <div className='secContainer  container'>
@@ -14,6 +14,7 @@ Plan Your Trip With Travel Dot
 Travel tooooooooooooooooooooooooooooo 
 your favourite city with respectful
 of the environment !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+***********************      tail wind   /  seo   ****************
 </p>
 <button className='btn'>
 <a href='#'>Export Now </a>
